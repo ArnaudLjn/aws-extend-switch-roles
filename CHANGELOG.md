@@ -1,6 +1,10 @@
 Changelog
 =========
 
+## 6.1.1 (2026-04-16)
+
+- Add AWS EU Sovereign cloud support
+
 ## 6.1.0 (2024-12-14)
 
 - Add comprehensive keyboard navigation support for the popup interface (thanks to @aaronsuns)
